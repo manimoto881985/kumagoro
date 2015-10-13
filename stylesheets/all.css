@@ -9648,3 +9648,7 @@ h2 {
   font-size: 48px;
   margin: 20px 0;
   line-height: 150%; }
+
+/* line 62, /Users/manimoto/work/mua11/source/stylesheets/all.css.sass */
+.youtube iframe {
+  max-width: 100%; }
